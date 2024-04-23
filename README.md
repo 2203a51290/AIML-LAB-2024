@@ -6,5 +6,6 @@
 5.Lab-05(https://github.com/2203a51290/AIML-LAB-2024/blob/main/Lab05.ipynb)  
 6.Lab-06(https://github.com/2203a51290/AIML-LAB-2024/blob/main/lab06%20(1).ipynb)  
 7.Lab-07(https://github.com/2203a51290/AIML-LAB-2024/blob/main/lab_07_2203A51290_Batch11.ipynb)  
-8.Lab-08(
+8.Lab-08(https://github.com/2203a51290/AIML-LAB-2024/blob/main/Lab_08_2203A51290_Batch11.ipynb)  
+9.Lab-09(
 
